@@ -1,0 +1,40 @@
+Exercice 2 : Systèmes oscillants / 4 points
+
+1.
+
+Pour analyser le mouvement d'un oscillateur mécanique, on Ic muni d’un capteur
+qui transforme l’élongation de l’oscillateur en une tension alternative d'amplitude
+proportionnelle à cette élongation et dont la fréquence est la même que celle de
+Poscillateur. Cette tension est injectée sur l’une des voies d'un oscilloscope dont les
+réglages sont les suivants : Gain vertical : | V/division ; vitesse de balayage :
+2ms/division. On a obtenu I’ oscillogramme ci-dessous.
+
+Déterminer la fréquence de l’oscillateur et la valeur maximale de la tension
+fournie par le capteur à Poscilloscope. Ipt
+On se propose d'étudier un pendule simple par la méthode énergétique. On
+suspend le pendule à un point fixe et on attend que l'équilibre soit établi. On
+écarte alors le pendule de sa position d'équilibre stable d'un angle 6,, et on
+l'abandonne à lui-même à la date t = 0. On prend pour niveau de référence
+pour l'énergie potentielle de pesanteur, le niveau où se situe le centre d'inertie
+du pendule à la position d'équilibre stable. On nate 0. l'angle que fait le
+pendule avec la verticale à une date t quelconque et @ sa vitesse angulaire à
+cette date.
+2.1. Décrire à l’aide d’un schéma un pendule simple. 0.75pt
+2.2. Exprimer l’énergie mécanique E du système pendule - Terre à une date t
+quelconque en fonction 8, £ la longueur du pendule. m sa masse, g l'intensité de
+la pesanteur et 6. 0,75pt
+2.3. En exprimant la conservation de l'énergie mécanique du système pendule — Terre
+
+(dE
+dans l'hypothèse où le pendule n'est pas amonti | m = o) . écrire l'équation
+"ut
+
+différentielle de son mouvement. A quelle condition le pendule simple est-il un
+
+oscillateur harmonique ? Ipt
+2.4. Cette condition étant remplie, proposer une équation horaire du mouvement du
+pendule simple. 0,5pt
+
+Jartage
+
+OBC - Baccalauréat /ESG série D. Epreuve de physique Page 2 sur 5

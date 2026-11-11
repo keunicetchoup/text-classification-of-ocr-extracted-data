@@ -1,0 +1,121 @@
+engine,variant,page_id,seconds,confidence
+tesseract,raw,2ndeC2008Tsela,3.82,0.8887185929648241
+tesseract,raw,Bac A Maths 1999 - 2018_page_9,1.49,0.8573684210526317
+tesseract,raw,BAC_D_2000_Maths_OBC_page_2,4.29,0.8692038216560509
+tesseract,raw,BAC_D_2003_Physique_MINESEC-OBC_page_1,3.73,0.9231198347107439
+tesseract,raw,BAC_D_2009_Physique_MINESEC-OBC_page_2,3.51,0.9181012658227848
+tesseract,raw,BAC_D_2009_SVT_OBC_page_5,2.95,0.9091883116883117
+tesseract,raw,BEPC-Z1-AP-2015,3.23,0.9000456621004567
+tesseract,raw,BEPC-Z1-EDHC-2017,3.68,0.9382384823848239
+tesseract,raw,BEPC-Z1-EM-2014,2.19,0.8918579234972678
+tesseract,raw,BEPC-Z1-ESP LV2-2018_page_1,2.47,0.9442462311557789
+tesseract,raw,BEPC-Z1-FR-2016,5.0,0.9328683693516698
+tesseract,raw,BEPC-Z1-FR-2017,3.97,0.9409158878504672
+tesseract,raw,BEPC-Z1-HG-2018_page_2,1.14,0.9215584415584415
+tesseract,raw,BEPC-Z1-MATH-2013_page_1,2.35,0.8793969849246231
+tesseract,raw,BEPC-Z1-ORTHO-2017,3.29,0.912258064516129
+tesseract,raw,BEPC-Z1-PC-2014_page_2,2.75,0.9175555555555556
+tesseract,raw,BEPC-Z2-ANG LV1-2013_page_1,3.14,0.9348058252427184
+tesseract,raw,BEPC-Z2-ANG LV1-2018_page_1,2.34,0.9422727272727274
+tesseract,raw,BEPC-Z2-AP-2013,1.19,0.9160465116279071
+tesseract,raw,BEPC-Z2-EDHC-2019_page_1,2.3,0.9274237288135594
+tesseract,raw,BEPC-Z2-HG-2017_page_1,2.69,0.8810344827586206
+tesseract,raw,BEPC-Z2-ORTHO-2016,3.67,0.9278571428571429
+tesseract,raw,BEPC-Z3-ALL LV2-2014_page_1,2.62,0.916614420062696
+tesseract,raw,BEPC-Z3-ALL LV2-2019_page_2,2.95,0.9137377049180329
+tesseract,raw,BEPC-Z3-EM-2019_page_1,2.21,0.910752688172043
+tesseract,raw,BEPC-Z3-ESP LV2-2016_page_2,3.13,0.9258082191780822
+tesseract,raw,BEPC-Z3-PC-2017_page_2,2.96,0.9024820143884892
+tesseract,raw,BEPC-Z3-SVT-2018_page_2,1.71,0.9026896551724138
+tesseract,raw,EPREUVE IDE 2014_page_5,3.28,0.8529225352112677
+tesseract,raw,EPREUVE IDE 2015_page_2,2.26,0.9154166666666668
+tesseract,thesis,2ndeC2008Tsela,3.39,0.8677664974619289
+tesseract,thesis,Bac A Maths 1999 - 2018_page_9,1.33,0.7077272727272726
+tesseract,thesis,BAC_D_2000_Maths_OBC_page_2,3.43,0.8816300940438871
+tesseract,thesis,BAC_D_2003_Physique_MINESEC-OBC_page_1,4.34,0.8908817635270542
+tesseract,thesis,BAC_D_2009_Physique_MINESEC-OBC_page_2,3.67,0.9187106918238993
+tesseract,thesis,BAC_D_2009_SVT_OBC_page_5,3.3,0.854648829431438
+tesseract,thesis,BEPC-Z1-AP-2015,3.01,0.8692920353982301
+tesseract,thesis,BEPC-Z1-EDHC-2017,2.17,0.9358100558659218
+tesseract,thesis,BEPC-Z1-EM-2014,2.0,0.8778350515463917
+tesseract,thesis,BEPC-Z1-ESP LV2-2018_page_1,2.66,0.9460814249363868
+tesseract,thesis,BEPC-Z1-FR-2016,4.62,0.92906432748538
+tesseract,thesis,BEPC-Z1-FR-2017,3.86,0.9430410447761194
+tesseract,thesis,BEPC-Z1-HG-2018_page_2,1.87,0.841
+tesseract,thesis,BEPC-Z1-MATH-2013_page_1,2.09,0.9082022471910112
+tesseract,thesis,BEPC-Z1-ORTHO-2017,3.59,0.9116873449131514
+tesseract,thesis,BEPC-Z1-PC-2014_page_2,2.73,0.9121021021021021
+tesseract,thesis,BEPC-Z2-ANG LV1-2013_page_1,3.34,0.9244755244755245
+tesseract,thesis,BEPC-Z2-ANG LV1-2018_page_1,2.15,0.9401704545454546
+tesseract,thesis,BEPC-Z2-AP-2013,1.24,0.887741935483871
+tesseract,thesis,BEPC-Z2-EDHC-2019_page_1,2.1,0.928972602739726
+tesseract,thesis,BEPC-Z2-HG-2017_page_1,3.07,0.8615447154471545
+tesseract,thesis,BEPC-Z2-ORTHO-2016,3.17,0.9275485436893205
+tesseract,thesis,BEPC-Z3-ALL LV2-2014_page_1,2.63,0.9287898089171975
+tesseract,thesis,BEPC-Z3-ALL LV2-2019_page_2,3.55,0.9129641693811075
+tesseract,thesis,BEPC-Z3-EM-2019_page_1,2.15,0.8834196891191709
+tesseract,thesis,BEPC-Z3-ESP LV2-2016_page_2,3.22,0.9009259259259259
+tesseract,thesis,BEPC-Z3-PC-2017_page_2,2.93,0.9047985347985348
+tesseract,thesis,BEPC-Z3-SVT-2018_page_2,1.79,0.9015068493150684
+tesseract,thesis,EPREUVE IDE 2014_page_5,2.95,0.8226369863013698
+tesseract,thesis,EPREUVE IDE 2015_page_2,2.45,0.9255172413793104
+tesseract,deskew_otsu,2ndeC2008Tsela,3.33,0.8677664974619289
+tesseract,deskew_otsu,Bac A Maths 1999 - 2018_page_9,1.32,0.7077272727272726
+tesseract,deskew_otsu,BAC_D_2000_Maths_OBC_page_2,3.08,0.863920972644377
+tesseract,deskew_otsu,BAC_D_2003_Physique_MINESEC-OBC_page_1,5.05,0.8990781563126252
+tesseract,deskew_otsu,BAC_D_2009_Physique_MINESEC-OBC_page_2,3.64,0.9187106918238993
+tesseract,deskew_otsu,BAC_D_2009_SVT_OBC_page_5,3.69,0.8588704318936877
+tesseract,deskew_otsu,BEPC-Z1-AP-2015,2.97,0.867510729613734
+tesseract,deskew_otsu,BEPC-Z1-EDHC-2017,2.99,0.9305
+tesseract,deskew_otsu,BEPC-Z1-EM-2014,2.2,0.8958762886597939
+tesseract,deskew_otsu,BEPC-Z1-ESP LV2-2018_page_1,2.82,0.9374185463659148
+tesseract,deskew_otsu,BEPC-Z1-FR-2016,4.37,0.92906432748538
+tesseract,deskew_otsu,BEPC-Z1-FR-2017,3.55,0.9430410447761194
+tesseract,deskew_otsu,BEPC-Z1-HG-2018_page_2,1.45,0.8552222222222222
+tesseract,deskew_otsu,BEPC-Z1-MATH-2013_page_1,1.88,0.9082022471910112
+tesseract,deskew_otsu,BEPC-Z1-ORTHO-2017,3.99,0.9064764267990074
+tesseract,deskew_otsu,BEPC-Z1-PC-2014_page_2,3.0,0.9194940476190476
+tesseract,deskew_otsu,BEPC-Z2-ANG LV1-2013_page_1,3.6,0.9276388888888889
+tesseract,deskew_otsu,BEPC-Z2-ANG LV1-2018_page_1,2.52,0.9418361581920904
+tesseract,deskew_otsu,BEPC-Z2-AP-2013,1.14,0.9179310344827586
+tesseract,deskew_otsu,BEPC-Z2-EDHC-2019_page_1,2.79,0.9238613861386139
+tesseract,deskew_otsu,BEPC-Z2-HG-2017_page_1,2.79,0.8857872340425531
+tesseract,deskew_otsu,BEPC-Z2-ORTHO-2016,3.24,0.935295566502463
+tesseract,deskew_otsu,BEPC-Z3-ALL LV2-2014_page_1,2.57,0.9344303797468355
+tesseract,deskew_otsu,BEPC-Z3-ALL LV2-2019_page_2,2.73,0.9149673202614379
+tesseract,deskew_otsu,BEPC-Z3-EM-2019_page_1,2.06,0.8834196891191709
+tesseract,deskew_otsu,BEPC-Z3-ESP LV2-2016_page_2,3.91,0.9008333333333333
+tesseract,deskew_otsu,BEPC-Z3-PC-2017_page_2,3.01,0.9073550724637681
+tesseract,deskew_otsu,BEPC-Z3-SVT-2018_page_2,2.29,0.8805357142857143
+tesseract,deskew_otsu,EPREUVE IDE 2014_page_5,2.8,0.8226369863013698
+tesseract,deskew_otsu,EPREUVE IDE 2015_page_2,2.47,0.9255172413793104
+tesseract,clahe_adaptive,2ndeC2008Tsela,3.06,0.8846701846965699
+tesseract,clahe_adaptive,Bac A Maths 1999 - 2018_page_9,1.19,0.8032857142857143
+tesseract,clahe_adaptive,BAC_D_2000_Maths_OBC_page_2,3.08,0.8413761467889909
+tesseract,clahe_adaptive,BAC_D_2003_Physique_MINESEC-OBC_page_1,4.47,0.8704527559055119
+tesseract,clahe_adaptive,BAC_D_2009_Physique_MINESEC-OBC_page_2,3.18,0.8739877300613498
+tesseract,clahe_adaptive,BAC_D_2009_SVT_OBC_page_5,2.96,0.897859649122807
+tesseract,clahe_adaptive,BEPC-Z1-AP-2015,3.15,0.8826222222222222
+tesseract,clahe_adaptive,BEPC-Z1-EDHC-2017,3.09,0.9279894179894179
+tesseract,clahe_adaptive,BEPC-Z1-EM-2014,2.44,0.888
+tesseract,clahe_adaptive,BEPC-Z1-ESP LV2-2018_page_1,2.88,0.9371072319201995
+tesseract,clahe_adaptive,BEPC-Z1-FR-2016,4.3,0.9289473684210526
+tesseract,clahe_adaptive,BEPC-Z1-FR-2017,3.39,0.9426305970149254
+tesseract,clahe_adaptive,BEPC-Z1-HG-2018_page_2,1.26,0.8551136363636364
+tesseract,clahe_adaptive,BEPC-Z1-MATH-2013_page_1,2.1,0.8829319371727748
+tesseract,clahe_adaptive,BEPC-Z1-ORTHO-2017,3.89,0.909501246882793
+tesseract,clahe_adaptive,BEPC-Z1-PC-2014_page_2,2.84,0.9221176470588236
+tesseract,clahe_adaptive,BEPC-Z2-ANG LV1-2013_page_1,3.43,0.9273411764705882
+tesseract,clahe_adaptive,BEPC-Z2-ANG LV1-2018_page_1,2.39,0.9427714285714286
+tesseract,clahe_adaptive,BEPC-Z2-AP-2013,1.28,0.908586956521739
+tesseract,clahe_adaptive,BEPC-Z2-EDHC-2019_page_1,2.69,0.9213993174061433
+tesseract,clahe_adaptive,BEPC-Z2-HG-2017_page_1,2.84,0.8799130434782608
+tesseract,clahe_adaptive,BEPC-Z2-ORTHO-2016,3.33,0.9273774509803921
+tesseract,clahe_adaptive,BEPC-Z3-ALL LV2-2014_page_1,2.57,0.9270886075949367
+tesseract,clahe_adaptive,BEPC-Z3-ALL LV2-2019_page_2,2.93,0.9100986842105263
+tesseract,clahe_adaptive,BEPC-Z3-EM-2019_page_1,1.94,0.8948108108108108
+tesseract,clahe_adaptive,BEPC-Z3-ESP LV2-2016_page_2,2.97,0.9310280373831776
+tesseract,clahe_adaptive,BEPC-Z3-PC-2017_page_2,2.77,0.9017948717948718
+tesseract,clahe_adaptive,BEPC-Z3-SVT-2018_page_2,1.97,0.8624539877300613
+tesseract,clahe_adaptive,EPREUVE IDE 2014_page_5,3.42,0.726
+tesseract,clahe_adaptive,EPREUVE IDE 2015_page_2,3.09,0.800820189274448

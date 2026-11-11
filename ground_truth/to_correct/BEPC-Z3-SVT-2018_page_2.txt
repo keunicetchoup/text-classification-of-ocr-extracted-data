@@ -1,0 +1,32 @@
+EXERCICE N93] (8 points)
+
+Une opération de don de sang est organisée par Ic club de santé de ton établissement. Quatre élèves
+décident d'y participer afin d'appartenir à la famille des donneurs bénévoles de sang. Une semaine
+plutard, ils obtiennent leurs cartes de groupe sanguin avec des mentions différentes. Soucieux de
+comprendre ces différentes mentions, ils 'interrogent pour les éclairer. En t’appuyant sur les résultats de
+groupage de leur sang consigné dans le tableau ci-dessous.
+
+Tableau des résultats de groupage
+
+Groupe = Serum test contenant les agglutinines a
+sanguin testé _AntiB | Anti-A | Anti-AB | Anti Rhésus
+
+Camarade 1
+
+Camarade 2
+
+e E
+. e
+mr] ® | 0
+$ 8
+
+Camarade 4
+
+0 Sang non agglutiné $ Sang agglutiné
+
+1- Cite les différents groupes sanguins du système ABO.
+2- Détermine le groupe sanguin mentionné sur chaque carte.
+
+3- Propose pour chacun de tes camarades les receveurs possibles.
+
+2/2

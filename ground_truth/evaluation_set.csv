@@ -1,0 +1,31 @@
+page_id,source_doc,country,exam,label
+BEPC-Z3-ALL LV2-2014_page_1,BEPC-Z3-ALL LV2-2014,Cote d'Ivoire,BEPC,Allemand
+BEPC-Z3-ALL LV2-2019_page_2,BEPC-Z3-ALL LV2-2019,Cote d'Ivoire,BEPC,Allemand
+BEPC-Z2-ANG LV1-2013_page_1,BEPC-Z2-ANG LV1-2013,Cote d'Ivoire,BEPC,Anglais
+BEPC-Z2-ANG LV1-2018_page_1,BEPC-Z2-ANG LV1-2018,Cote d'Ivoire,BEPC,Anglais
+BEPC-Z1-AP-2015,BEPC-Z1-AP-2015,Cote d'Ivoire,BEPC,Arts-Plastiques
+BEPC-Z2-AP-2013,BEPC-Z2-AP-2013,Cote d'Ivoire,BEPC,Arts-Plastiques
+BEPC-Z1-FR-2016,BEPC-Z1-FR-2016,Cote d'Ivoire,BEPC,Composition-Francaise
+BEPC-Z1-FR-2017,BEPC-Z1-FR-2017,Cote d'Ivoire,BEPC,Composition-Francaise
+BEPC-Z1-EDHC-2017,BEPC-Z1-EDHC-2017,Cote d'Ivoire,BEPC,EDHC
+BEPC-Z2-EDHC-2019_page_1,BEPC-Z2-EDHC-2019,Cote d'Ivoire,BEPC,EDHC
+BEPC-Z1-EM-2014,BEPC-Z1-EM-2014,Cote d'Ivoire,BEPC,Education-Musicale
+BEPC-Z3-EM-2019_page_1,BEPC-Z3-EM-2019,Cote d'Ivoire,BEPC,Education-Musicale
+BEPC-Z1-ESP LV2-2018_page_1,BEPC-Z1-ESP LV2-2018,Cote d'Ivoire,BEPC,Espagnol
+BEPC-Z3-ESP LV2-2016_page_2,BEPC-Z3-ESP LV2-2016,Cote d'Ivoire,BEPC,Espagnol
+BEPC-Z1-HG-2018_page_2,BEPC-Z1-HG-2018,Cote d'Ivoire,BEPC,Histoire-Geographie
+BEPC-Z2-HG-2017_page_1,BEPC-Z2-HG-2017,Cote d'Ivoire,BEPC,Histoire-Geographie
+2ndeC2008Tsela,2ndeC2008Tsela,Cameroun,Seconde,Mathematiques
+BAC_D_2000_Maths_OBC_page_2,BAC_D_2000_Maths_OBC,Cameroun,Baccalauréat D,Mathematiques
+BEPC-Z1-MATH-2013_page_1,BEPC-Z1-MATH-2013,Cote d'Ivoire,BEPC,Mathematiques
+Bac A Maths 1999 - 2018_page_9,Bac A Maths 1999 - 2018,Cameroun,Baccalauréat A,Mathematiques
+EPREUVE IDE 2014_page_5,EPREUVE IDE 2014,Cameroun,IDE,Mathematiques
+BEPC-Z1-ORTHO-2017,BEPC-Z1-ORTHO-2017,Cote d'Ivoire,BEPC,Orthographe
+BEPC-Z2-ORTHO-2016,BEPC-Z2-ORTHO-2016,Cote d'Ivoire,BEPC,Orthographe
+BAC_D_2003_Physique_MINESEC-OBC_page_1,BAC_D_2003_Physique_MINESEC-OBC,Cameroun,Baccalauréat D,Physique-Chimie
+BAC_D_2009_Physique_MINESEC-OBC_page_2,BAC_D_2009_Physique_MINESEC-OBC,Cameroun,Baccalauréat D,Physique-Chimie
+BEPC-Z1-PC-2014_page_2,BEPC-Z1-PC-2014,Cote d'Ivoire,BEPC,Physique-Chimie
+BEPC-Z3-PC-2017_page_2,BEPC-Z3-PC-2017,Cote d'Ivoire,BEPC,Physique-Chimie
+BAC_D_2009_SVT_OBC_page_5,BAC_D_2009_SVT_OBC,Cameroun,Baccalauréat D,SVT
+BEPC-Z3-SVT-2018_page_2,BEPC-Z3-SVT-2018,Cote d'Ivoire,BEPC,SVT
+EPREUVE IDE 2015_page_2,EPREUVE IDE 2015,Cameroun,IDE,SVT

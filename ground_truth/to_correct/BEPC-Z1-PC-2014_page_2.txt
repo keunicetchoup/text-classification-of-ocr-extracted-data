@@ -1,0 +1,43 @@
+[Chimie (3 points)!
+
+Recopie le numéro correspondant à chacune des affirmations ci-dessous et écris V si l’affirmation est
+vraie ou F si elle est fausse.
+
+1- L'électrolyse de l’eau est une réaction chimique.
+2- L'eau et le dioxyde de carbone sont les produits de l’électrolyse de l’eau.
+3- Au cours de l’electrolyse de l’eau, de l’eau disparaît tandis que se forment du dioxygène et du
+dihydrogène.
+EXERCICE 2 (7 points)
+(Le candidat recevra une feuille de papier millimétré à rendre avec la copie.)
+
+Le poste de radio d’un élève de 3%" est en panne. Le réparateur du quartier lui propose un dipôle (D) pour
+remplacer la pièce défaillante. Mais toutes les inscriptions sur le dipôle sont effacées.
+
+L'élève décide alors d'identifier la nature de ce dipóle en effectuant une série de mesures dont les
+résultats sont consignés dans le tableau ci-dessous :
+
+FU 0 2 3 - 5 6 9
+I(mA 0 20 30 50 59 90
+
+1- Donne l'expression de la loi d’Ohm aux bornes d’un conducteur ohmique.
+
+2- Construis sur la feuille de papier millimétré la caractéristique U = fl) de ce dipôle.
+Échelle: lcm — 10 mA
+lem — IV
+3- Donne la nature du dipöle. Justifie ta réponse.
+4- Détermine graphiquement :
+4-1. la résistance de ce dipôle,
+4-2. l'intensité de courant électrique qui traverse le dipôle pour U = 4V.
+EXERCICE 3 (5 points)
+Le professeur de Physique-Chimie d’une classe de 3°™ a appris à ses élèves que le gaz utilisé à la maison
+pour faire la cuisine est un alcane appelé butane. En vue de connaître les produits de la combustion du
+butane, les élèves réalisent sa combustion avec le matériel nécessaire sous la supervision du professeur.
+
+1- Donne le nombre d’atomes de carbone présents dans la molécule de butane.
+
+2- Ecris:
+2-1. la formule brute du butane ;
+2-2. les formules semi-développées du butane.
+3- Écris l’équation-bilan de la combustion complète du butane dans le dioxygène.
+
+4- Écris les noms des produits de cette combustion.

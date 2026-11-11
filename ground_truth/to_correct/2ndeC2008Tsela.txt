@@ -1,0 +1,60 @@
+LYCBE DE TSELA Avril 208%
+
+EPREUVE DE MATHEMATIQUES 2"”" c
+père Séquence Coef:6 Durée: 2H
+
+Exercice 1 : 4,5 pts
+
+1} Résous les équations suivantes dans l'ensemble précisé :
+
+a) y -4+(x+2) =0, dans IN. 1 pt
+by 3273, dans IR 1 pt
+x-1 x
+2x -5|=-7 ‚dans IR. 0,5 pt
+2) Fofana a aujourd'hui 38 ans et son fils a 13 ans. Dans combien d'années Fofana
+aura-t-il le double de l'âge de son fils ? 2 pts
+
+Exercice 2 : 4 pts
+
+1) Soit @ et í deux vecteurs tels que: ü = 2 : 5 =2 et Mes (4,7) = re
+
+Calculer: ¡(26 -v); (@ -24)Gá +*) 2 pts
+
+2) Soit ABC un triangle, H le projeté orthogonal de A sur (BC).
+
+Démontrer que si ABC est rectangle en À, alors : + = a 1 pt
+AB AC AH"
+
+3) Démontrer que (cosx +sinx) = 1 + 2sinx.cosx 1 pt
+
+Exercice 3 : 4 pts
+Le plan est muni du repère (0.5.5). On donne le point A(- 2:3), les vecteurs # =7 +7 et
+
+hei-j.
+
+1) Démontrer que (3.5) est une base de I’. 1 pt
+
+2) Quelles sont les coordonnées de 7 etde j dans la base (3.5) ? 1 pt
+
+3) Un point M a pour coordonnées (x : y) dans le repère (0.7. i) et(x ; y) dans le
+repère (.1,:,5). Exprimer x’ et y' en fonction de x et de y. c 2pts
+Exercice 4 : 7,5 pts N P
+
+Dans le triangle rectangle isocèle ABC tel que :
+AB = AC = 8, on trace le rectangle AMPN, où M & [AB],
+P €[BC] et NE [AC]. On pose AM = x
+
+1° Soit f la fonction qui à la distance x associe l'aire du rectangle AMPN.
+a) Pour quelles valeurs de x peut-on calculer f(x) ? 0,5 pt A M
+b) Déterminer l'expression f(x). 1 pt
+
+2° a) Représenter cette fonction dans un repère orthonormé, point par point. 2 pts
+
+b) Quelle semble étre la nature de la courbe Cy ? 0,5 pt
+iQ
+3° Soit g la fonction définie sur IR par g (x) = > 7
+Vrs
+a) Quel est l'ensemble de définition de g ? 1 pt
+b) Démontrer que f est une fonction affine par intervalles. 1 pt
+
+c) Calculer f (0), f (1) et f (-2). 1,5 pts

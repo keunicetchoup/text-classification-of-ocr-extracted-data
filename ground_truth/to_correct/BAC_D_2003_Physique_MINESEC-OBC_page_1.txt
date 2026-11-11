@@ -1,0 +1,68 @@
+OFFICE DU BACCALAURÉAT DU CAMEROUN |.
+[Examen BACCALAURÉAT [série D | SESSION | 2003
+[ÉPREUVE DE: [PHYSIQUE ‘coer [2  ÏDURÉE l3HEURES |
+
+Exercice 1 : (Spoints) Mouvement ef énergie
+
+Un lanceur de poids lance une masse de 7,3 kg avec une vitesse initiale V = 14 m.s” faisant un
+
+angle de 54° avec l'horizontale. Au moment où la masse quitte la main du lanceur, son centre
+
+d'inertie se situe à une hauteur h = 2,3 m du sol. On prendra pour valeur de l'accélération de la
+
+pesanteur g = 9.8 ms”.
+
+1. Faire te bilan des forces appliquées à la masse lorsqu'elle a quitté la main du lanceur. On fera
+un schéma, on négligera la résistance de l'air ainsi que la poussée d'Archiméde qui lui est
+
+due. 0,5pt
+
+2. (a) Établir l'équation de la trajectoire du centre d'inertie de la masse 1,5pt
+(b) A quelle distance de son point de lancement, mesurée dans le plan horzontal qui passe
+
+par ce point, retombe-t-elle ? 0,5pt
+
+3. (a) Quelle est, au moment où la masse quitte la main du lanceur, son énergie cinétique ? 0,25pt
+
+(b) Quelle est son énergie potentielle, relativement au niveau du sol 2 0,25pt
+
+(c) En appliquant la conservation de l'énergie mécanique (on néglige la résistance de l'air),
+exprimer, puis calculer la valeur numérique de la vitesse du centre d'inertie de la masse
+au moment de l'impact sur le sol. 1pt
+4. Faire un schema représentant l'allure de la courbe représentative des variations du module
+de la vitesse de la masse en fonction du temps. On donnera en particulier les coordonnées
+de l'extremum ipt
+
+Exercice 2 : {5 points) Électricité et phenomenes périodiques
+
+On realise le circuit cHdessous .
+_—” wane .
+r teme "2 une battene de 6 V de résistance negli-
+geable alimente le circuit Lorsque le
+
+2) | commutateur est en position B. c'est un
+
+Lorsque le commutateur est en position A,
+
+générateur, de resistance interne négli-
+R Verlasclissope geable et qui entretienfentre ses bornes
+une tension alternative de fréquence 50
+Hz, qui alimente le circuit. Un oscilloscope
+permet de mesurer la tension aux bomes
+de la résistance R = 20 9.
+1. On place le commutateur en A. L’oscilloscope indique alors une tension Ur = 2,4 V. Montrer
+que la résistance de la bobine est Re = 302. 0,5 pt
+2. On place maintenant le commutateur en B. Le circuit est alors alimenté en courant alternatif.
+
+L'osciloscope donne alors pour valeur maximale de tension aux bomes de la résistance
+Uma = 1.4 V.
+
+(a) Calculer la valeur efficace de la tension aux bomes de la résistance. 1 pt
+(b) En déduire la valeur efficace de l'intensité du courant dans le circuit. 1 pt
+(c) Quelle est l'impédance totale Z du circuit ? 0,75 pt
+(d) Faire alors une construction de Fresnel relative au circuit. 1pt
+(e) En déduire ta valeur de l'inductance L de la bobine 0,75 pt
+
+Page 1/4
+
+OBC - Baccalauréat série D - Épreuve de physique — tage

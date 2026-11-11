@@ -1,0 +1,48 @@
+b) Combien de pays doit elle visiter pour qu’au retour dans son pays il lui reste au
+moins 200.000fCFA ? 1,5pts
+
+PROBLEME : 11 points
+
+A/ Une ume contient n boules noires et unc boule blanche indiscemables au
+toucher, Un jeu consiste à tirer de cette ume une boule, de noter sa couleur et de la
+remettre dans l’ume. Cette épreuve s'effectue deux fois. Si après le tirage on obtient
+deux boules noires, on gagne 1F : si après le tirage on obtient deux boules banches on
+gagne 10 F, si on obtient deux boules de couleurs différentes on perd 3,5 F.
+
+Soit X la variable aléatoire qui au résultat associe le gain.
+
+1°) Déterminer la loi de probabilité de la variable aléatoire X. 1,5 pt
+2°) Calculer l'espérance mathématique E(X). 0.5 pt
+
+B/ Soit f la fonction numérique d'une variable réelle définie par :
+
+x2- 7x +10
+x)= ———
+A ) (x +1)
+1°) Etudier tes variations de f et dresser son tableau de variation. 2 pts
+
+2°) Tracer soigneusement la courbe représentative (C) de f dans un plan rapporté a un
+
+> > >
+reperc orihogons! (O, + 3 (unités sur les axes = FA = 2cm [= Im) 2 pts
+3°) Utiliser la courbe représentative (C) de la fonction f pour donner tes vaicurs don
+pour lesquelles :
+
+a) le jeu de la partie A est équitable ; 0, 5 pt
+
+b) le jeu est avantageux. 0.5 pt 4°)
+Soit F la fonction numérique d'une variable réelle définic par :
+
+F(x) = [fae ; x20
+
+a) Justifier l'existence de F 0,5pt
+b) Démontrer qu'il existe trois nombres réels a, betc tels que. pour tout
+Pe h € ,
+x different de -1 f(x) = a + cat trl lp:
+En déduire l'expression de Fix) et calculer HO) 1.5 pt
+c) Caleuler l’aire du domaine plan limité par les droites d’équation x = ?,
+x=5,y=0et(C). tpt
+
+pra À
+
+tage
